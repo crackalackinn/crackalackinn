@@ -1,5 +1,10 @@
 ### Hi there 👋
+---
+### Languages and Tools
 
+<img align="left" alt="Microsoft Excel" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/512px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png">
+<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <!--
 **crackalackinn/crackalackinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
