@@ -3,7 +3,7 @@
 ### Languages and Tools
 
 <img align="left" alt="Microsoft Excel" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg">
-<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="http://www.w3.org/2000/svg" fill="#000000">
+<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="http://www.w3.org/2000/svg" fill="#FFFFFF">
 <img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
 <!--
