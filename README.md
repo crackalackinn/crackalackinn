@@ -1,4 +1,6 @@
-### Hi there 👋
+# Zachary Carter
+
+**'Data Analyst'**
 ---
 ### Languages and Tools
 
