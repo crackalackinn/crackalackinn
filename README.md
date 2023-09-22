@@ -1,6 +1,6 @@
 # Zachary Carter
 
-**'Data Analyst'**
+**`Data Analyst`**
 ---
 ### Languages and Tools
 
